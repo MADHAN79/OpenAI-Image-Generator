@@ -1,9 +1,12 @@
-# React + Vite
+# AI IMAGE GENERATOR:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### TEACH USED:
 
-Currently, two official plugins are available:
+1. React18
+2. OpenAI API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# OpenAI-Image-Generator" 
+
+Disclaimer: From 2024 there is a lot of restrictions on the free trial in OpenAI API.
+Hence only by using paid API Key, the website can able to generate the images.
+
+Place the paid API Key in ImageGenerator.jsx file.
